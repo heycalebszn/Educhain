@@ -1,0 +1,5 @@
+<!-- src/assets/svg/logo.svg -->
+<svg width="77" height="60" viewBox="0 0 77 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="4.5" y="4.5" width="68" height="51" stroke="#007961" stroke-width="9"/>
+  <path d="M27.2784 21.3821V16.8182H48.7812V21.3821H40.7656V43H35.294V21.3821H27.2784Z" fill="#00987B"/>
+</svg>
